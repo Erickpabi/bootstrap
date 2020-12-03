@@ -1,0 +1,40 @@
+#title{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
+.container-fluid {
+   padding: 3% 15% !important;
+   background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%) !important;
+   border:none;
+}
+
+#jumb{
+    text-align: center !important;
+    
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    padding-left: 15%;
+   
+}
+
+
+
+p{
+    color: #8f8f8f;
+  
+}
+
+i{
+    position: relative;
+    padding-left: 25%;
+}
