@@ -1,0 +1,60 @@
+#title{
+    background-color: #ff4c68;
+}
+
+#title2{
+    background-color: white;
+}
+
+#title3{
+    background-color: #ff4c68;
+    padding-top: 5% !important;
+    padding-bottom: 5% !important;
+}
+.container-fluid {
+   padding: 3% 15% !important;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    padding-left: 15%;
+   
+}
+
+ #dog{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3.0rem;
+    line-height: 1.5;
+    padding-left: 15%;
+color: white;
+}
+p{
+    color: #8f8f8f;
+    
+}
+#pad{
+    color:#8f8f8f;
+    padding-top:2%
+}
+
+i{
+
+ 
+}
+
+#love{
+    padding-left: 25%;
+}
+#awe{
+    padding-left:2% ;
+}
